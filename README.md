@@ -39,19 +39,17 @@
 
 ## 🚀 Featured Projects
 
-- 🎮 **[Rock Paper Scissor Game](https://github.com/slash-init/rock-paper-scissors)**  
-  <sub>Simple JavaScript-based game with a UI</sub>  
-  <a href="https://slash-init.github.io/rock-paper-scissors/" target="_blank">🌐 Live Demo</a>
+- 📝 **[Notes App](https://github.com/slash-init/notes-app)**  
+  <sub>A Simple MERN Project with CRUD Operations.</sub>  
+  <a href="https://notes-backend-njl9.onrender.com/" target="_blank">🌐 Live Demo</a>
+  
+- 🌏 **[Countries Explorer](https://github.com/slash-init/FSO-exercises/tree/main/part2/countries)**  
+  <sub>A modern, responsive web application for exploring detailed information about countries worldwide. Built with React and powered by REST APIs for real-time data.</sub>  
+  <a href="https://country-explorer0101.vercel.app/" target="_blank">🌐 Live Demo</a>
 
 - 🖌️ **[Etch A Sketch (Drawing App)](https://github.com/slash-init/etch-a-sketch)**  
   <sub>A grid-based drawing tool using HTML/CSS/JS</sub>  
   <a href="https://slash-init.github.io/etch-a-sketch/" target="_blank">🌐 Live Demo</a>
-
----
-
-## 💡 Fun Fact
-
-- 🎵 I love music, watching movies, and anime!
 
 ---
 
