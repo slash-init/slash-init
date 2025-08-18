@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=350&lines=Welcome+to+my+GitHub!;Happy+Coding+%F0%9F%92%BB" alt="Welcome typing animation" />
-</p>
-
 <h1 align="center">
   Hi there! 👋 I'm Gaurav Verma
 </h1>
