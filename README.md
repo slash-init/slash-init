@@ -1,4 +1,4 @@
-Hello, I'm Gaurav Verma
+# Hello, I'm Gaurav Verma
 
 Aspiring full stack web developer and Computer Science Engineering undergraduate.
 
@@ -21,6 +21,8 @@ Aspiring full stack web developer and Computer Science Engineering undergraduate
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=plastic&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=plastic&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=git&logoColor=white"/>
@@ -32,16 +34,13 @@ Aspiring full stack web developer and Computer Science Engineering undergraduate
 ## Featured Projects
 
 - [Notes App](https://github.com/slash-init/notes-app)  
-  Simple MERN project with full CRUD functionality.  
-  [Live Demo](https://notes-backend-njl9.onrender.com/)
-  
-- [Countries Explorer](https://github.com/slash-init/FSO-exercises/tree/main/part2/countries)  
-  Web application to explore information about countries worldwide. Built with React and powered by REST APIs.  
-  [Live Demo](https://country-explorer0101.vercel.app/)
+  Simple MERN notes app. [Live Demo](https://notes-backend-njl9.onrender.com/)
 
-- [Etch A Sketch (Drawing App)](https://github.com/slash-init/etch-a-sketch)  
-  Grid-based drawing tool built with HTML, CSS, and JavaScript.  
-  [Live Demo](https://slash-init.github.io/etch-a-sketch/)
+- [Countries Explorer](https://github.com/slash-init/FSO-exercises/tree/main/part2/countries)  
+  Explore country info with React. [Live Demo](https://country-explorer0101.vercel.app/)
+
+- [Etch A Sketch](https://github.com/slash-init/etch-a-sketch)  
+  Draw on a grid using HTML, CSS, and JS. [Live Demo](https://slash-init.github.io/etch-a-sketch/)
 
 ---
 
