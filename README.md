@@ -1,7 +1,10 @@
-# Hi, I'm Gaurav 👋
+Hey, I'm Gaurav.
 
-I’m a second-year Computer Science student who enjoys building web applications and understanding how systems work end to end. I’m currently learning full-stack development and like turning ideas into practical projects that solve real problems. Outside development, I spend time listening to music and watching movies or TV series.
+Just a CS student trying to get better at Go (programming itself actually) and contribute to open source without accidentally breaking production somewhere.
 
-## Connect
+Currently:
+- Learning Go
+- Exploring backend development
+- Looking for open-source projects to contribute to
 
-[Email](mailto:amvermagaurav007@gmail.com) • [LinkedIn](https://www.linkedin.com/in/gauravxverma/)
+Besides coding, I'm most probably listening to music, watching a movie, playing games, or just scrolling.
